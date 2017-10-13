@@ -1,0 +1,11 @@
+{
+  "name": "currency-converter-mrbrown",
+  "version": "1.0.1",
+  "description": "Currenct converter by Mr.Brown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR.Brown",
+  "license": "ISC"
+}
